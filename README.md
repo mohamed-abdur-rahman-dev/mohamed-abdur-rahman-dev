@@ -31,14 +31,14 @@ I continuously sharpen my problem-solving skills and explore scalable system des
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Abdur-R&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamed-abdur-rahman-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-abdur-rahman-09453a259" target="_blank">
+  <a href="www.linkedin.com/in/mohamed-abdur-rahman-dev" target="_blank">
     <img align="center"
          src="https://res.cloudinary.com/dzipdro4d/image/upload/v1734849146/0d965c639dad997285aa1e434c0bc7d5_rupon8.gif"
          height="30" width="40"/>
@@ -48,7 +48,7 @@ I continuously sharpen my problem-solving skills and explore scalable system des
          src="https://cdn.worldvectorlogo.com/logos/behance-1.svg"
          height="30" width="40"/>
   </a>
-  <a href="https://github.com/Mohamed-Abdur-R" target="_blank">
+  <a href="https://github.com/mohamed-abdur-rahman-dev" target="_blank">
     <img align="center"
          src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
          height="30" width="30"/>
@@ -108,12 +108,12 @@ I continuously sharpen my problem-solving skills and explore scalable system des
 ### 📊 GitHub Stats
 <p>
   <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Abdur-R&show_icons=true&locale=en&layout=compact"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-abdur-rahman-dev&show_icons=true&locale=en&layout=compact"
        alt="top languages" />
 </p>
 
 <p>&nbsp;
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Mohamed-Abdur-R&show_icons=true&locale=en"
+       src="https://github-readme-stats.vercel.app/api?username=mohamed-abdur-rahman-dev&show_icons=true&locale=en"
        alt="github stats" />
 </p>
